@@ -1,8 +1,10 @@
 iTerm2
 -
-My iTerm2 profile settings.
+My [iTerm2](https://www.iterm2.com/) profile settings.
 
-In iTerm:
+To install the matrix theme, follow Step 2 of 3 of the instructions [here](https://medium.freecodecamp.org/how-to-make-a-badass-matrix-terminal-and-maybe-learn-something-about-code-8abc81c6b7a2).
+
+To import my profile and make it your own (or whatever):
 1. Go to Preferences->General. You will see the following at the bottom of the panel:
 ![alt text](https://github.com/qstainless/iterm/blob/master/iTerm2-preferences.png "iTerm2 Preferences Pane")
 
