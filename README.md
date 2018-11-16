@@ -14,3 +14,5 @@ To import my profile and make it your own (or whatever):
 5. Click `Save Current Settings to Folder`.
 
 And you're all set!
+
+See my oh-my-zsh custom settings [here](https://github.com/qstainless/dotfiles/blob/master/.zshrc).
